@@ -9,4 +9,4 @@ Material Utilizado.
 - 4 Led (Amarelo, Azul, Verde e Vermelho)
 - 4 Botões
 - 4 Resistores de 220 ohms
-- 12 cabos macho ~ macho
+- 16 cabos macho ~ macho
